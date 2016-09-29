@@ -1,0 +1,63 @@
+body {
+  font-family: Helvetica,Arial,sans-serif;
+  padding-top: 60px;
+}
+.twitter-nav {
+  background: #eee;
+}
+
+.twitter-main-feed{
+  margin: 0 auto;
+}
+
+.tweet-logistics {
+  width: 100%;
+  border-top: 1px solid lightgray;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.twitter-search, .twitter-search-button{
+  border-radius: 30px;
+}
+.tweet-post{
+  background: #0084B4;
+  color: white;
+  border: 1px solid #3b88c3;
+}
+.tweet-post:hover{
+  background: rgba(0,132,180,.8);
+  color: white;
+  border: 1px solid #3b88c3;
+}
+
+.tweet-actions {
+  width: 100%;
+  border-top: 1px solid lightgray;
+  padding-top: 10px;
+}
+
+.tweet-actions a{
+  padding-top: 15px;
+  padding-left: 35px;
+  color: #aaa;
+
+}
+
+.tweet-reply{
+  width: 100%;
+  background: lightgrey;
+  padding: 10px;
+}
+.tweet-reply-input {
+  width: 90%;
+}
+
+.tweet-logistics ul{
+  list-style: none;
+}
+
+.tweet-logistics ul li{
+  display: inline;
+  list-style-type: none;
+  padding: 3px;
+}
